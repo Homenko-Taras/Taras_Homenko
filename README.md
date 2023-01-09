@@ -2,9 +2,9 @@
 _____
 # Hot to run Test Project
 ______
-## To runtests from the command line, follow these steps:
+## To run tests from the command line, follow these steps:
 
-1.Navigate to the root directory ofyourrepository
+1.Navigate to the root directory of your repository
 
 2.Run the following command:
 ```
