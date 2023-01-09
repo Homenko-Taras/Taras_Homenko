@@ -25,4 +25,4 @@ _____
 
 # Additional notes
 
-Before running tests,set the [](ACCESS_TOKEN) field in your [](Dropbox) class to a valid Dropbox API access token. To get an access token, [https://www.dropbox.com/developers/apps/create](create a Dropbox API app) and follow the instructions in the [https://www.dropbox.com/developers/apps/create](Create an access token section) of the Dropbox API documentation.
+Before running tests,set the **ACCESS_TOKEN** field in your **Dropbox** class to a valid Dropbox API access token. To get an access token, [create a Dropbox API app](https://www.dropbox.com/developers/apps/create) and follow the instructions in the [Generate an access token](https://www.dropbox.com/developers/apps/create) of the Dropbox API documentation.
